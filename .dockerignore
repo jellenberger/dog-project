@@ -1,0 +1,7 @@
+*.zip
+*.hdf5
+*.npz
+images/
+dogImages/
+lfw/
+bottleneck_features/
