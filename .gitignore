@@ -1,7 +1,13 @@
 .DS_Store
+__MACOSX/
+__pycache__/
 dogImages/
 lfw/
 saved_models/weights.best.from_scratch.hdf5
 saved_models/weights.best.vgg16.hdf5
 .ipynb_checkpoints/
 bottleneck_features/DogVGG16Data.npz
+*.hdf5
+*.npz
+*.zip
+
